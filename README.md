@@ -1,4 +1,4 @@
 # academic_toolkit
 
 # JS
-- [repo1](https://wwww.facebook.com)
+- [elgante personal site v1](https://github.com/elgante/elgante))
