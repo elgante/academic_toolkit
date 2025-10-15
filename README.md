@@ -1,4 +1,4 @@
 # academic_toolkit
 
-# JS
-- [elgante personal site v1](https://github.com/elgante/elgante)
+# JS, React, EmailJS
+- [elgante personal site v1](https://github.com/elgante/elgante_personal_site_v1)
