@@ -10,6 +10,6 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 </a> 
 
 # Java
-[Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java)
-[Semester2 Project using JavaFx](https://github.com/elgante/2ndSemesterProject)
+- [Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java)
+- [Semester2 Project using JavaFx](https://github.com/elgante/2ndSemesterProject)
 
