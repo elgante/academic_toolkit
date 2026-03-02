@@ -11,7 +11,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 # C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project using Java, C#, gRPC, REST API]
+- [Semester 3 Project using Java, C#, gRPC, REST API](https://github.com/elgante/3rdSemesterProject)
 
 # Java
 - [Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java)
