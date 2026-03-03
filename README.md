@@ -13,7 +13,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project using Java, C#, gRPC, REST API](https://github.com/elgante/3rdSemesterProject)
+- [Semester 3 Project Repo](https://github.com/elgante/3rdSemesterProject)
 - [Semester 3 Project Demo](https://youtu.be/oUpRkwiyLQY)
 
 ## Java
