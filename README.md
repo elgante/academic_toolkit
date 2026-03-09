@@ -10,6 +10,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 - [WEB2 assignment Pokedex Code](https://github.com/elgante/pokedex_code)
 - [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
 - [ELGANTE Personal Site Repo](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
+- [WEB2 assignment Tic-Tac-Toe Repo](https://github.com/elgante/tic_tac_toe). Group work
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
