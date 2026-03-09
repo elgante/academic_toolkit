@@ -20,5 +20,5 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 ## Java
 - [Java exercises and Semester1 Project-Overlook Hotel-JavaFx](https://github.com/elgante/java) Group work
 - [Semester2 Project-Vynil Swap-JavaFx+RMI](https://github.com/elgante/2ndSemesterProject) Group work
-- [WEB1 Assignment: HTML, CSS, Bootstrap](https://overlookhotel.vercel.app/) Group work
+- [WEB1 Assignment Demo: HTML, CSS, Bootstrap ](https://overlookhotel.vercel.app/) Group work
 
