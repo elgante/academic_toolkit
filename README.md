@@ -9,7 +9,7 @@ Hey, traveler! I’m currently getting polished. Come back soon.
 
 **Meanwhile, this is how I look:**
 <p align="center">
-  <img src="assets/home.png" width="150" height="250"/>
+  <img src="assets/home.png" width="250" height="350"/>
   <img src="screenshots/goals.png" width="250"/>
   <img src="screenshots/meditation.png" width="250"/>
 </p>
