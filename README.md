@@ -14,7 +14,7 @@ Hey, traveler! I’m currently getting polished. Come back soon.
   <img src="assets/createGoal.png" width="151" height="594"/>
   <img src="assets/confetti.png" width="151" height="594"/>
   <img src="assets/deletePopUp.png" width="151" height="594"/>
-  <img src="assets/createGoal.png" width="151" height="594"/>
+
   <img src="assets/meditationPlayer.png" width="151" height="594"/>
   <img src="assets/meditationList.png" width="151" height="594"/>
 </p>
