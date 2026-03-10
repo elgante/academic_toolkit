@@ -8,6 +8,11 @@ Hey, traveler! I’m currently getting polished. Come back soon.
 * **What I do:** I allow users to create, delete, and complete goals to help them build habits. I celebrate completed goals with a confetti animation. I also provide a space to emotionally vent through a chat feature connected to AI and to listen to guided meditation.
 
 **Meanwhile, this is how I look:**
+![Home Screen](assets/home.png)
+
+![Goals Screen](screenshots/goals.png)
+
+![Meditation Screen](screenshots/meditation.png)
 
 
 ## Multimedia
