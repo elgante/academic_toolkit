@@ -5,13 +5,18 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 Hey, traveler! I’m currently getting polished. Come back soon.
 
 * **Tech stack you can expect:** Expo, TypeScript, GraphQL, MongoDB, Apollo Server.
-* **What I do:** I allow users to create, delete, and complete goals to help them build habits. I celebrate completed goals with a confetti animation. I also provide a space to emotionally vent through a chat feature connected to AI and to listen to guided meditation.
+* **What I do:** I allow users to choose the Buddy's aura and name. I also welcome them to create, delete, and complete goals to help them build habits. I celebrate completed goals with a confetti animation. I also provide a space to emotionally vent through a chat feature connected to AI and to listen to guided meditation.
 
 **Meanwhile, this is how I look:**
 <p align="center">
+  <img src="assets/welcome.png" width="151" height="594"/>
   <img src="assets/home.png" width="151" height="594"/>
-  <img src="screenshots/goals.png" width="250"/>
-  <img src="screenshots/meditation.png" width="250"/>
+  <img src="assets/createGoal.png" width="151" height="594"/>
+  <img src="assets/confetti.png" width="151" height="594"/>
+  <img src="assets/deletePopUp.png" width="151" height="594"/>
+  <img src="assets/createGoal.png" width="151" height="594"/>
+  <img src="assets/meditation.png" width="151" height="594"/>
+  <img src="assets/meditationList.png" width="151" height="594"/>
 </p>
 
 
