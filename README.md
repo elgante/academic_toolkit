@@ -33,11 +33,12 @@ Hey, traveler! I’m currently getting polished 🤩. Come back soon.
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project-CenterSprog Language School](https://github.com/elgante/3rdSemesterProject) Group work.
-- [Semester 3 Project-CenterSprog Language School Demo](https://youtu.be/oUpRkwiyLQY)
+- [Semester 3 Project: CenterSprog Language School Demo](https://youtu.be/oUpRkwiyLQY)
+- [Semester 3 Project. Distributed Systems. 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL](https://github.com/elgante/3rdSemesterProject) Group work.
+
 
 ## Java
-- [Java exercises and Semester1 Project-Overlook Hotel-JavaFx](https://github.com/elgante/java) Group work
-- [Semester2 Project-Vynil Swap-JavaFx+RMI](https://github.com/elgante/2ndSemesterProject) Group work
-- [WEB1 Assignment: Overlook Hotel Website. HTML, CSS, Bootstrap Demo](https://overlookhotel.vercel.app/) Group work
+- [Semester2 Project. Client-Server: Vynil Swap. JavaFx+RMI](https://github.com/elgante/2ndSemesterProject) Group work
+- [Java exercises and Semester1 Project: Overlook Hotel. JavaFx](https://github.com/elgante/java) Group work
+- [WEB1 Assignment: Overlook Hotel Website. HTML, CSS, Bootstrap. Demo](https://overlookhotel.vercel.app/) Group work
 
