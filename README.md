@@ -4,7 +4,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 ## Ba Eng Project: self-care Expo app "Catico"
 Hey, traveler! I’m currently getting polished 🤩. Come back soon.
 
-* **Tech stack:** Expo, TypeScript, GraphQL, MongoDB, Apollo Server.
+* **My tech stack:** Expo, TypeScript, GraphQL, MongoDB, Apollo Server.
 * **What I do:** I allow users to choose the Buddy's aura and name. I also welcome them to create, delete, and complete goals to help them build habits. I celebrate completed goals with a confetti animation. I also provide a space to emotionally vent through a chat feature connected to AI and to listen to guided meditation.
 
 **Meanwhile, this is how I look:**
