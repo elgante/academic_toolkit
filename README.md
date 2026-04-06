@@ -2,8 +2,10 @@
 #### Here you will find exercises, projects that were conducted as part of studying at VIA University College 
 _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 ## Ba Eng Project: self-care Expo app "Catico"
-Hey, traveler! [I am deployed!](https://self-care-app-v2-1-nzzl.vercel.app)
-I’m still getting polished 🤩. Keep checking on updates.
+Hey, traveler! [I am officially deployed!](https://self-care-app-v2-1-nzzl.vercel.app) 
+- Just a heads-up: I’m currently living on free-tier services, so it might take a moment for the server and database to wake up. 
+
+I’m also still being polished 🤩, so stay tuned for more updates soon.
 
 * **My tech stack:** Expo, TypeScript, GraphQL, MongoDB, Apollo Server.
 * **What I do:** I allow users to choose the Buddy's aura and name. I also welcome them to create, delete, and complete goals to help them build habits. I celebrate completed goals with a confetti animation. I also provide a space to emotionally vent through a chat feature connected to AI and to listen to guided meditation.
